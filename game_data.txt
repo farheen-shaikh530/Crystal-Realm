@@ -1,0 +1,7 @@
+6 6
+crystal empty goblin empty empty empty
+empty empty goblin empty empty empty
+goblin empty crystal empty empty goblin
+empty goblin empty empty empty empty
+empty empty empty goblin crystal empty
+empty empty empty empty empty empty
